@@ -25,10 +25,10 @@ this is a list
 
 `Hello!!! My name is Airel.`
 
-```
+
 # A bad Poem
 
-*There was a man who had no plan except to tell bad rhymes and place them in a can.
+* There was a man who had no plan except to tell bad rhymes and place them in a can.
 He tell rean around in circles saying bad poetry until his face was covered in wrinckles.*
 
 
